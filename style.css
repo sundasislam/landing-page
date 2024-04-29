@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* 
+.buton1{
+    display: flex !important;
+    text-align: center !important;
+} */
+
+button{
+    font-weight: 200px;
+    border-radius: 5px !important;
+    border-color: #4776E6 !important;
+    background-color: #fff;
+    width: 40% !important;
+    height: 50% !important;
+    padding: 8px !important;
+    /* display: flex !important;
+    text-align: center !important; */
+}
+
+
+.coco{
+    width: 0 auto;
+    background-color: #fff;
+    opacity: 80px;
+    height: 100vh;
+}
+
+.sec{
+    margin-top: 100px !important;
+}
+
+/* .pix{
+    border: none ;
+    box-shadow: 1px 1px  1px #AF52DE ;
+} */
